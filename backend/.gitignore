@@ -23,7 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 .env
-uploads/
+uploads/*
 
 
-/scripts
+scripts/
+
